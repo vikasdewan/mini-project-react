@@ -5,7 +5,10 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-image: url("https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148616311.jpg?t=st=1718005415~exp=1718009015~hmac=ec0d7adba8fae94f3a35cda43abf392adb45bb14dd11b1a460e34c827e41774a&w=996");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -27,7 +30,6 @@ body {
   display: flex;
   place-items: center;
   min-width: 320px;
-  min-height: 100vh;
 }
 
 h1 {

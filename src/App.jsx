@@ -1,5 +1,5 @@
 import './App.css'
- 
+import WeatherApp from './WeatherApp';
 
 function App() {
  
@@ -9,8 +9,8 @@ function App() {
 
   return (
     <>
-       <h1>Mini-Project</h1>
-
+       
+        <WeatherApp/> 
     </>
   )
 }

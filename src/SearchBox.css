@@ -1,0 +1,12 @@
+.SearchBox{
+    background-color: rgb(238, 246, 238);
+    border-radius: 10px;
+}
+
+.SearchBtn{
+    border-radius: 8px !important;
+}
+
+h2{
+    color: black !important; 
+}

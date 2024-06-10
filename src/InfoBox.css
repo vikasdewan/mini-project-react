@@ -1,0 +1,9 @@
+.CardContainer{
+    display: flex;
+    justify-content: center;
+    color: black !important;
+}
+
+.InfoBox{
+    margin-top: 25px;
+}
